@@ -36,7 +36,6 @@
 	* [KRB-4](./m/KRB-4.markdown)
 	* [KRB-5](./m/KRB-5.markdown)
 	* [KRB-6](./m/KRB-6.markdown)
-	* [KRB07](./m/KRB07.markdown)
 	* [KRB-7](./m/KRB-7.markdown)
 	* [KRB-8](./m/KRB-8.markdown)
 	* [Template](./m/Template.markdown)

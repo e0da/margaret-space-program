@@ -38,6 +38,6 @@ A Grace 2 modified for improved scientified research. The scientific instruments
 {{.\Grace-2T-Mk3.jpg}}
 
 ==== Mk4 ====
-7. [[m:KRB07]]: Include correct decoupler
+7. m:KRB07: Include correct decoupler
 
 {{.\Grace-2T-Mk4-Stage-1.jpg}} {{.\Grace-2T-Mk4-Stage-2.jpg}}

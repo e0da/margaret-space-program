@@ -1,7 +1,7 @@
 # 0001-002-04-37 - Well, This Is Awkward
 Created Sunday 23 December 2018
 
-Valentina guided the unconventional looking [v:Grace 2T](../v/Grace_2T.markdown) Mk4 to glorious success fulfilling all primary and secondary objectives of [m:KRB-7](../m/KRB-7.markdown). That's a big decoupler. The secret to success was actually including it in the ship design. RTFM >_<
+[a:Valentina](../a/Valentina.markdown) guided the unconventional looking [v:Grace 2T](../v/Grace_2T.markdown) Mk4 to glorious success fulfilling all primary and secondary objectives of [m:KRB-7](../m/KRB-7.markdown). That's a big decoupler. The secret to success was actually including it in the ship design. RTFM >_<
 
 Contracts Complete
 ------------------

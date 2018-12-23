@@ -47,7 +47,7 @@ Revisions
 
 ### Mk4
 
-7. [m:KRB07](../m/KRB07.markdown): Include correct decoupler
+7. m:KRB07: Include correct decoupler
 
 
 ![](./Grace_2T/Grace-2T-Mk4-Stage-1.jpg) ![](./Grace_2T/Grace-2T-Mk4-Stage-2.jpg)

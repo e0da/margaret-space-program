@@ -4,8 +4,8 @@ Created Saturday 22 December 2018
 [+Template](./l/Template.markdown)
 
 
-* [+](./l/0001-001-00-27_-_Hello_World.markdown)0001-001-00-27 - Hello World
-* [+](./l/0001-001-01-01_-_Run_Before_You_Walk.markdown)0001-001-01-01 - Run Before You Walk
+* [+0001-001-00-27 - Hello World](./l/0001-001-00-27_-_Hello_World.markdown)
+* [+0001-001-01-01 - Run Before You Walk](./l/0001-001-01-01_-_Run_Before_You_Walk.markdown)
 * [+0001-001-04-59 - Home Safe](./l/0001-001-04-59_-_Home_Safe.markdown)
 * [+0001-001-05-05 - Only a Test](./l/0001-001-05-05_-_Only_a_Test.markdown)
 * [+0001-001-05-14 - Saving Grace](./l/0001-001-05-14_-_Saving_Grace.markdown)
