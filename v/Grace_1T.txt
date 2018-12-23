@@ -10,4 +10,4 @@ Heavily modified from the unflown [[Grace 1 DNF]], the Grace 1T tests parts at l
 ===== Missions =====
 * [[m:KRB-4]]
 
-{{.\Grace 1T.jpg?height=800}}
+{{.\Grace-1T.jpg?height=800}}

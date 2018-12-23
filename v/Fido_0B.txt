@@ -14,8 +14,8 @@ Fido 0B is a booster test platform
 ===== Revisions =====
 
 ==== Mk1 ====
-{{.\Fido 0B.jpg?height=800}}
+{{.\Fido-0B.jpg?height=800}}
 
 ==== Mk2 ====
 * Test new equipment
-{{.\Fido 0B Mk2.jpg}}
+{{.\Fido-0B-Mk2.jpg}}

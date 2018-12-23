@@ -15,7 +15,7 @@ A Grace 2 modified for improved scientified research. The scientific instruments
 ===== Revisions =====
 
 ==== Mk1 ====
-{{.\Grace 2T - Stage 1.jpg?height=800}} {{.\Grace 2T - Stage 2.jpg?height=800}} {{.\Grace 2T - Stage 3.jpg?height=800}}
+{{.\Grace-2T-Stage-1.jpg?height=800}} {{.\Grace-2T-Stage-2.jpg?height=800}} {{.\Grace-2T-Stage-3.jpg?height=800}}
 
 === Bugs ===
 1. [[m:KRB-5]]: The goo canister exploded on touchdown. It was probably clipped too far down.
@@ -26,7 +26,7 @@ A Grace 2 modified for improved scientified research. The scientific instruments
 3. Due to part count constraints, both fuel tanks are shorter
 4. Better parachutes
 
-{{.\Grace 2T Mk2 - Stage 1.jpg}}  {{.\Grace 2T Mk2 - Stage 2 ascent.jpg}} {{.\Grace 2T Mk2 - Stage 3.jpg}} 
+{{.\Grace-2T-Mk2-Stage-1.jpg}} {{.\Grace-2T-Mk2-Stage-2-ascent.jpg}} {{.\Grace-2T-Mk2-Stage-3.jpg}}
 
 === Bugs ===
 2. [[m:KRB-6]]: ~~The decoupler was placed such that the bottom node connected to service bay instead of the top node, so it couldn't successfully decouple.~~ I installed the wrong part.
@@ -35,9 +35,9 @@ A Grace 2 modified for improved scientified research. The scientific instruments
 5. [[m:KRB-7]]: Include decoupler
 6. [[m:KRB-7]]: Include booster
 
-{{.\Grace 2T Mk3.jpg}}
+{{.\Grace-2T-Mk3.jpg}}
 
 ==== Mk4 ====
 7. [[m:KRB07]]: Include correct decoupler
 
-{{.\Grace 2T Mk4 - Stage 1.jpg}} {{.\Grace 2T Mk4 - Stage 2.jpg}}
+{{.\Grace-2T-Mk4-Stage-1.jpg}} {{.\Grace-2T-Mk4-Stage-2.jpg}}

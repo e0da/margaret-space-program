@@ -15,4 +15,4 @@ Orbit Kerbin and return home safely
 * Goo canisters and thermometer burned up on reentry
 * Fuel margins were not great for controlling reentry, but we made it home
 
-{{.\Grace 2 - Stage 1.jpg?height=800}} {{.\Grace 2 - Stage 2.jpg?height=800}} {{.\Grace 2 - Stage 3.jpg?height=800}}
+{{.\Grace-2-Stage-1.jpg?height=800}} {{.\Grace-2-Stage-2.jpg?height=800}} {{.\Grace-2-Stage-3.jpg?height=800}}

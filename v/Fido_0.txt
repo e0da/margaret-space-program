@@ -10,4 +10,4 @@ Fido 0 is a testing platform that can't move. It's a gateway for exploring the K
 ===== Missions =====
 * [[m:KRB-1]]
 
-{{.\Fido 0.jpg?width=800}}
+{{.\Fido-0.jpg?width=800}}
