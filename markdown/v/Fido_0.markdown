@@ -1,0 +1,13 @@
+# v:Fido 0
+Created Saturday 22 December 2018
+
+Fido 0 is a testing platform that can't move. It's a gateway for exploring the KSC.
+
+Missions
+--------
+
+* [m:KRB-1](../m/KRB-1.markdown)
+
+
+![](./Fido_0/Fido-0.jpg)
+

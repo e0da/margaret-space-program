@@ -1,0 +1,24 @@
+# v:Fido 0B
+Created Saturday 22 December 2018
+
+Fido 0B is a booster test platform
+
+Missions
+--------
+
+* [m:KRB-3](../m/KRB-3.markdown)
+* [m:KRB-8](../m/KRB-8.markdown)
+
+
+Revisions
+---------
+
+### Mk1
+![](./Fido_0B/Fido-0B.jpg)
+
+### Mk2
+
+* Test new equipment
+
+![](./Fido_0B/Fido-0B-Mk2.jpg)
+

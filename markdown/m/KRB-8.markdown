@@ -1,0 +1,27 @@
+# KRB-8
+Created Saturday 22 December 2018
+
+Primary Objectives
+------------------
+
+* ☑ [c:Test LV-T45 "Swivel" Liquid Fuel Engine landed at Kerbin](../c/Test_LV-T45_Swivel_Liquid_Fuel_Engine_landed_at_Kerbin.markdown)
+* ☑ Recover [a:Bill](../a/Bill.markdown)
+
+
+Secondary Objectives
+--------------------
+
+* ☑ Recover all hardware
+
+
+Vehicles and Astronauts
+-----------------------
+
+* [v:Fido 0B](../v/Fido_0B.markdown) Mk2
+	* [a:Bill](../a/Bill.markdown) - Commander and Engineer
+
+
+Outcome
+-------
+SUCCESS!
+

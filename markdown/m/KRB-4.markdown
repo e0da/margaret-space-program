@@ -1,0 +1,32 @@
+# m:KRB-4
+Created Saturday 22 December 2018
+
+Test the Mk2-R Radial Mount Parachute at low altitude and speed using the [v:Grace 1T](../v/Grace_1T.markdown).
+
+Primary Objectives
+------------------
+
+* ☑ [c:Test Mk2-R Radial Mount Parachute in flight over Kerbin](../c/Test_Mk2-R_Radial_Mount_Parachute_in_flight_over_Kerbin.markdown)
+* ☑ Recover [a:Valentina](../a/Valentina.markdown)
+
+
+Secondary Objectives
+--------------------
+
+* ☑ Recover capsule
+* ☐ Recover winglets
+* ☐ Recover engine
+* ☐ Recover fuel tanks
+
+
+Vehicles and Astronauts
+-----------------------
+
+* [v:Grace 1T](../v/Grace_1T.markdown)
+	* [a:Valentina](../a/Valentina.markdown) - Commander and Pilot
+
+
+Outcome
+-------
+SUCCESS! That went great, and we were able to glide back backwards to land in the water and cushion the landing. Unfortunately, this wasn't enough to spare the hardware. Only the capsule and its occupant survived.
+
