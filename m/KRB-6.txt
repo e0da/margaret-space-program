@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T19:46:04-08:00
+
+====== KRB-6 ======
+Created Saturday 22 December 2018
+
+===== Primary Objectives =====
+[*] [[c:Science data from Space around Kerbin]]
+[x] [[c:Test TD-25 Decoupler splashed down at Kerbin]]
+[*] Recover [[a:Valentina]]
+
+===== Secondary Objectives =====
+[*] Recover capsule
+[*] Recover science bay
+
+===== Vehicles and Astronauts =====
+* [[v:Grace 2T]] Mk2
+	* [[a:Valentina]]
+
+===== Outcome =====
+Partial success! Because of the [[v:Grace 2T]] ~~bug 1~~ bug 3 [[c:Test TD-25 Decoupler splashed down at Kerbin]] failed. 

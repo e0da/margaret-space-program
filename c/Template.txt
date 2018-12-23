@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T21:36:48-08:00
+
+====== Template ======
+Created Saturday 22 December 2018
+
+===== Parameters =====
+* one
+* two
+
+===== Status =====
+Status
+
+===== Reward =====
+* o-n-e
+* t-w-o
+
+===== Missions =====
+[ ] one
+[ ] two

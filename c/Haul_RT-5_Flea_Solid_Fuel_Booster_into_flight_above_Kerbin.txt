@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T23:51:05-08:00
+
+====== Haul RT-5 Flea Solid Fuel Booster into flight above Kerbin ======
+Created Saturday 22 December 2018
+
+===== Parameters =====
+Altitude: 9-13km
+Speed: 200-260m/s
+
+===== Status =====
+Complete
+
+===== Reward =====
+* 21094-2-5
+
+===== Missions =====
+[*] [[m:KRB-7]]

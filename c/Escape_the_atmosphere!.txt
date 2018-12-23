@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T21:43:17-08:00
+
+====== Escape the atmosphere! ======
+Created Saturday 22 December 2018
+
+===== Status =====
+Complete
+
+===== Reward =====
+* 20800-4-8 - 'Achieve goal' complete!
+
+===== Missions =====
+[*] [[m:KRB-2]]

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T21:26:07-08:00
+
+====== m ======
+Created Saturday 22 December 2018
+
+===== Mission namespace =====
+
+[[+Template]]

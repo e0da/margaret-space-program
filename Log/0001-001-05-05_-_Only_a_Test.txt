@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T17:41:32-08:00
+
+====== 0001-001-05-05 - Only a Test ======
+Created Saturday 22 December 2018
+
+Aboard the [[v:Fido 0B]] Engineer Bill test fired the Thumper and Flea boosters for [[m:KRB-3]].
+
+===== Contracts Complete =====
+* [[c:Test RT-5 "Flea" Solid Fuel Booster at the Launch Site]]
+* [[c:Test BACC "Thumper" Solid Fuel Booster at the Launch Site]]

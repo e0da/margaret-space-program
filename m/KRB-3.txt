@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T17:20:59-08:00
+
+====== m:KRB-3 ======
+Created Saturday 22 December 2018
+
+Use the  to test fire Thumper and Flea boosters on the ground, and measure temperature and atmospheric pressure on the launch pad.
+
+===== Primary Objectives =====
+[*] [[c:Test RT-5 "Flea" Solid Fuel Booster at the Launch Site]]
+[*] [[c:Test BACC "Thumper" Solid Fuel Booster at the Launch Site]]
+[*] Recover [[a:Bill]]
+
+===== Secondary Objectives =====
+[*] Recover all hardware
+
+===== Vehicles and Astronauts =====
+* [[v:Fido 0B]]
+	* [[a:Bill]] - Commander and Engineer
+
+===== Outcome =====
+SUCCESS! That almost empty Thumper burned for a long time.

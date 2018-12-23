@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T17:27:41-08:00
+
+====== v:Fido 0 ======
+Created Saturday 22 December 2018
+
+Fido 0 is a testing platform that can't move. It's a gateway for exploring the KSC.
+
+===== Missions =====
+* [[m:KRB-1]]
+
+{{.\Fido 0.jpg?width=800}}

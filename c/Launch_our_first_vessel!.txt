@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T21:36:32-08:00
+
+====== Launch our first vessel! ======
+Created Saturday 22 December 2018
+
+===== Status =====
+Complete
+
+===== Reward =====
+* 3200-1-1 - 'Achieve goal' complete!
+* 2080-1-1
+
+===== Missions =====
+[*] [[m:KRB-2]]
