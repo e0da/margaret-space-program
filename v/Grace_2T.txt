@@ -15,6 +15,7 @@ A Grace 2 modified for improved scientified research. The scientific instruments
 ===== Revisions =====
 
 ==== Mk1 ====
+TODO Scale these images
 {{.\Grace-2T-Stage-1.jpg?height=800}} {{.\Grace-2T-Stage-2.jpg?height=800}} {{.\Grace-2T-Stage-3.jpg?height=800}}
 
 === Bugs ===
