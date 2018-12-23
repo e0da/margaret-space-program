@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T17:09:48-08:00
+
+====== Logs ======
+Created Saturday 22 December 2018
+
+[[+Template]]
+
+* [[+0001-001-00-27 - Hello World|+]]0001-001-00-27 - Hello World
+* [[+0001-001-01-01 - Run Before You Walk|+]]0001-001-01-01 - Run Before You Walk
+* [[+0001-001-04-59 - Home Safe]]
+* [[+0001-001-05-05 - Only a Test]]
+* [[+0001-001-05-14 - Saving Grace]]
+* [[+0001-002-00-02 - Hoisted by My Own Part Clip]]
+* [[+0001-002-00-48 - Check Yo Staging]]
+* [[+0001-002-01-39 - Engine Test]]
+* [[+0001-002-04-37 - Well, This Is Awkward]]

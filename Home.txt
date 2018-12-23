@@ -6,7 +6,7 @@ Creation-Date: 2018-12-22T17:09:38-08:00
 Created Saturday 22 December 2018
 
 ===== Navigation =====
-[[Log]] - [[Programs]] - [[Vehicles]]
+[[l|Logs]] - [[m|Missions]] - [[v|Vehicles]]
 
 ===== Formatting and Notation =====
 * Rewards are abbreviated as x-y-z (e.g. 3500-1-2) where x is funds, y is science, and z is reputation

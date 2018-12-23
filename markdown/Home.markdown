@@ -3,7 +3,7 @@ Created Saturday 22 December 2018
 
 Navigation
 ----------
-[Log](./Log.markdown) - [Programs](./Programs.markdown) - [Vehicles](./Vehicles.markdown)
+[Logs](./l.markdown) - [Missions](./m.markdown) - [Vehicles](./v.markdown)
 
 Formatting and Notation
 -----------------------
