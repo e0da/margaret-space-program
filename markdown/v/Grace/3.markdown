@@ -13,16 +13,15 @@ Revisions
 ---------
 
 ### Mk1
-![](./img/Grace-3-Launch.jpg) ![](./img/Grace-3-Stage-2.jpg)
-![](./img/Grace-3-Experiments.jpg) ![](./img/Grace-2-Reentry-Maneuver.png)
+![](./3/Grace-3-Launch.jpg)![](./3/Grace-3-Stage-2.jpg)![](./3/Grace-3-Experiments.jpg)![](./3/Grace-3-Reentry-Maneuver.png)
 
 #### Development
 
 Testing upper stage survivability atop an SRB
-![](./img/Grace-3-Development-1.jpg)
+![](./3/Grace-3-Development-1.jpg)
 
 The booster saw a lot of iteration
-![](./img/Grace-3-Development-2.jpg)
+![](./3/Grace-3-Development-2.jpg)
 
 #### Issues
 
