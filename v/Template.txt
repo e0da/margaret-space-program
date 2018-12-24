@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T11:44:00-08:00
+
+====== Template ======
+Created Monday 24 December 2018
+
+The Grace:3 flies us higher than we've ever flown and is our first rocket to feature radially attached engines and radial staging.
+
+===== Missions =====
+* [[m:KRB:9]]
+
+===== Revisions =====
+
+==== Mk1 ====
+{{.\Grace-2T-Stage-1.jpg?height=800}}
+
+=== Issues ===
+1. [[m:KRB:5]]: The goo canister exploded on touchdown. It was probably clipped too far down.
+
+==== Mk2 ====
+
+=== Updates ===
+
+2. Attach goo canister to command module to protect it from impact on touchdown
+
+{{.\Grace-2T-Mk2-Stage-1.jpg}}
+
+=== Bugs ===
+6. [[m:KRB:6]]: ~~The decoupler was placed such that the bottom node connected to service bay instead of the top node, so it couldn't successfully decouple.~~ I installed the wrong part.
+
+==== Mk3 DNF ====
+
+=== Updates ===
+
+7. [[m:KRB:7]]: Include decoupler
+
+{{.\Grace-2T-Mk3.jpg}}

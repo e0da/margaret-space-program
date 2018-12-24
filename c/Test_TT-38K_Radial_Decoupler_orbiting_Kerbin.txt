@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T11:36:00-08:00
+
+====== Test TT-38K Radial Decoupler orbiting Kerbin ======
+Created Monday 24 December 2018
+
+===== Missions =====
+[*] [[m:KRB:9]]
+
+===== Reward =====
+* 61875-8-14
+
+===== Parameters =====
+* Altitude: 330-340km

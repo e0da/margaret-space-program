@@ -1,7 +1,7 @@
 # 0001-001-04-59 - Home Safe
 Created Saturday 22 December 2018
 
-Valentina splashes down safely in the ocean aboard the [v:Grace 2](../v/Grace_2.markdown) to successfully conclude [m:KRB-2](../m/KRB-2.markdown). The scientific instruments stuck onto the landing capsule did not survive reentry and their experiments were lost.
+Valentina splashes down safely in the ocean aboard the [v:Grace:2](../v/Grace/2.markdown) to successfully conclude [m:KRB:2](../m/KRB/2.markdown). The scientific instruments stuck onto the landing capsule did not survive reentry and their experiments were lost.
 
 World First Milestones
 ----------------------

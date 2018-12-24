@@ -5,7 +5,7 @@ Creation-Date: 2018-12-23T00:45:31-08:00
 ====== 0001-002-04-37 - Well, This Is Awkward ======
 Created Sunday 23 December 2018
 
-[[a:Valentina]] guided the unconventional looking [[v:Grace 2T]] Mk4 to glorious success fulfilling all primary and secondary objectives of [[m:KRB-7]]. That's a big decoupler. The secret to success was actually including it in the ship design. RTFM >_<
+[[a:Valentina]] guided the unconventional looking [[v:Grace:2T]] Mk4 to glorious success fulfilling all primary and secondary objectives of [[m:KRB:7]]. That's a big decoupler. The secret to success was actually including it in the ship design. RTFM >_<
 
 ===== Contracts Complete =====
 * [[c:Test TD-25 Decoupler splashed down at Kerbin]]

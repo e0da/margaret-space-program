@@ -1,7 +1,7 @@
 # 0001-002-01-39 - Engine Test
 Created Saturday 22 December 2018
 
-[a:Bill](../a/Bill.markdown) fired the Swivel aboard the [v:Fido 0B](../v/Fido_0B.markdown) Mk2.
+[a:Bill](../a/Bill.markdown) fired the Swivel aboard the [v:Fido:0B](../v/Fido/0B.markdown) Mk2.
 
 Contracts Complete
 ------------------

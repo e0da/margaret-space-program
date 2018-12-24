@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T17:25:18-08:00
+
+====== Grace:2 ======
+Created Saturday 22 December 2018
+
+Orbit Kerbin and return home safely
+
+===== Missions =====
+* [[m:KRB:2]]
+* [[m:KRB:5]]
+
+===== Design Notes =====
+* Goo canisters and thermometer burned up on reentry
+* Fuel margins were not great for controlling reentry, but we made it home
+
+{{.\Grace-2-Stage-1.jpg?height=800}} {{.\Grace-2-Stage-2.jpg?height=800}} {{.\Grace-2-Stage-3.jpg?height=800}}

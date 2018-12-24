@@ -5,7 +5,7 @@ Creation-Date: 2018-12-22T17:36:39-08:00
 ====== 0001-001-01-01 - Run Before You Walk ======
 Created Saturday 22 December 2018
 
-Valentina was the first Kerbal to achieve orbit in the [[m:KRB-2]] mission aboard the [[v:Grace 2]].
+Valentina was the first Kerbal to achieve orbit in the [[m:KRB:2]] mission aboard the [[v:Grace:2]].
 
 ===== Contracts Complete =====
 * [[c:Launch our first vessel!]]

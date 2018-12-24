@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T17:27:59-08:00
+
+====== Fido:0B ======
+Created Saturday 22 December 2018
+
+Fido 0B is a booster test platform
+
+===== Missions =====
+* [[m:KRB:3]]
+* [[m:KRB:8]]
+
+===== Revisions =====
+
+==== Mk1 ====
+
+{{.\Fido-0B.jpg?height=800}}
+
+==== Mk2 ====
+
+=== Updates ===
+1. Test new equipment
+
+{{.\Fido-0B-Mk2.jpg}}

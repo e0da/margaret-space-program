@@ -1,7 +1,7 @@
 # Template
 Created Saturday 22 December 2018
 
-Jebediah Kerman commanded the [v:Fido 0](../v/Fido_0.markdown) "rover" vehicle in its maiden "voyage" on [m:KRB-1](../m/KRB-1.markdown). Because Fido can't move, it just sat on the pad. Jebediah collected a crew report, goo canister reading, and EVA reports from the launch pad and the vehicle assembly building.
+Jebediah Kerman commanded the [v:Fido:0](../v/Fido/0.markdown) "rover" vehicle in its maiden "voyage" on [m:KRB:1](../m/KRB/1.markdown). Because Fido can't move, it just sat on the pad. Jebediah collected a crew report, goo canister reading, and EVA reports from the launch pad and the vehicle assembly building.
 
 Contracts Complete
 ------------------

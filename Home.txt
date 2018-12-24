@@ -15,7 +15,7 @@ Created Saturday 22 December 2018
 	* a = astronaut, e.g. [[a:Valentina]]
 	* c = contract, e.g. [[c:Escape the atmosphere!]]
 	* l = log, e.g. [[l:0001-002-04-37 - Well, This Is Awkward]]
-	* m = mission, e.g. [[m:KRB-7]]
-	* v = vehicle, e.g. [[v:Grace 2T]] Mk4. Note that the Mk4 is not part of the link. All revisions are on the same page.
+	* m = mission, e.g. [[m:KRB:7]]
+	* v = vehicle, e.g. [[v:Grace:2T]] Mk4. Note that the Mk4 is not part of the link. All revisions are on the same page.
 
 

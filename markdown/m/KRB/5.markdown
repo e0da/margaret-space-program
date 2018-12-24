@@ -1,0 +1,35 @@
+# KRB:5
+Created Saturday 22 December 2018
+
+Do some research, earn some funds. There aren't many reasonable contracts to choose from. -_-
+
+Primary Objectives
+------------------
+
+* ☑ [c:Test TD-12 Decoupler on a sub-orbital trajectory over Kerbin](../../c/Test_TD-12_Decoupler_on_a_sub-orbital_trajectory_over_Kerbin.markdown)
+* ☒ [c:Science data from Space around Kerbin](../../c/Science_data_from_Space_around_Kerbin.markdown)
+* ☑ Recover [a:Valentina](../../a/Valentina.markdown) Safely
+
+
+Objectives
+----------
+
+* ☑ Recover capscule
+* ☑ Recover service module
+* ☒ Recover goo cannister
+* ☑ Recover thermal sensor
+* ☑ Recover pressure sensor
+* ☑ Land near KSC
+
+
+Vehicles and Astronauts
+-----------------------
+
+* [v:Grace:2T](../../v/Grace/2T.markdown)
+	* [a:Valentina](../../a/Valentina.markdown)
+
+
+Outcome
+-------
+SUCCESS! The decoupler test went off without a hitch. The mystery goo container exploded on touch down, so we didn't recover the data from space. The rest of the command module service bay assembly survived.
+

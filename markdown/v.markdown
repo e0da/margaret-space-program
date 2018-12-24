@@ -1,6 +1,8 @@
 # Vehicles
 Created Saturday 22 December 2018
 
+[+Template](./v/Template.markdown)
+
 Vehicle Programs
 ----------------
 

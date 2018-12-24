@@ -5,14 +5,11 @@ Creation-Date: 2018-12-22T19:43:27-08:00
 ====== Test TD-12 Decoupler on a sub-orbital trajectory over Kerbin ======
 Created Saturday 22 December 2018
 
-===== Parameters =====
-Altitude: 80-90km
-
-===== Status =====
-Complete
+===== Missions =====
+[*] [[m:KRB:5]]
 
 ===== Reward =====
-49500-6-11
+* 49500-6-11
 
-===== Missions =====
-[*] [[m:KRB-5]]
+===== Parameters =====
+* Altitude: 80-90km

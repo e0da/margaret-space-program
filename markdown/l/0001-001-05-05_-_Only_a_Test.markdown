@@ -1,7 +1,7 @@
 # 0001-001-05-05 - Only a Test
 Created Saturday 22 December 2018
 
-Aboard the [v:Fido 0B](../v/Fido_0B.markdown) Engineer Bill test fired the Thumper and Flea boosters for [m:KRB-3](../m/KRB-3.markdown).
+Aboard the [v:Fido:0B](../v/Fido/0B.markdown) Engineer Bill test fired the Thumper and Flea boosters for [m:KRB:3](../m/KRB/3.markdown).
 
 Contracts Complete
 ------------------

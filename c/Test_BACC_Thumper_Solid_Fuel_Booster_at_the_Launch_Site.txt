@@ -5,11 +5,8 @@ Creation-Date: 2018-12-22T21:55:08-08:00
 ====== Test BACC Thumper Solid Fuel Booster at the Launch Site ======
 Created Saturday 22 December 2018
 
-===== Status =====
-Complete
+===== Missions =====
+[*] [[m:KRB:3]]
 
 ===== Reward =====
 * 4914-1-1
-
-===== Missions =====
-[*] [[m:KRB-3]]

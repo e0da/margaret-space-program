@@ -5,7 +5,7 @@ Creation-Date: 2018-12-22T22:31:37-08:00
 ====== Template ======
 Created Saturday 22 December 2018
 
-Jebediah Kerman commanded the [[v:Fido 0]] "rover" vehicle in its maiden "voyage" on [[m:KRB-1]]. Because Fido can't move, it just sat on the pad. Jebediah collected a crew report, goo canister reading, and EVA reports from the launch pad and the vehicle assembly building.
+Jebediah Kerman commanded the [[v:Fido:0]] "rover" vehicle in its maiden "voyage" on [[m:KRB:1]]. Because Fido can't move, it just sat on the pad. Jebediah collected a crew report, goo canister reading, and EVA reports from the launch pad and the vehicle assembly building.
 
 ===== Contracts Complete =====
 * [[c:Launch our first vessel!]]

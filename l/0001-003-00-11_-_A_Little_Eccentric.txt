@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T13:38:34-08:00
+
+====== 0001-003-00-11 - A Little Eccentric ======
+Created Monday 24 December 2018
+
+Commanding the [[v:Grace:3]][[,]] [[a:Valentina]] executed all of the critical goals of [[m:KRB:9]][[.]]
+
+{{.\Grace-3-Development-1.jpg}}{{.\Grace-3-Development-2.jpg}}{{.\Grace-3-Launch.jpg}}{{.\Grace-3-Stage-2.jpg}}{{.\Grace-3-Experiments.jpg}}{{.\Grace-3-Reentry-Maneuver.png}}
+
+===== Contracts Complete =====
+* [[c:Test J-20 "Juno" Basic Jet Engine in flight over Kerbin]]
+* [[c:Test TT-38K Radial Decoupler orbiting Kerbin]]

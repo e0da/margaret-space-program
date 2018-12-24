@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T17:19:40-08:00
+
+====== KRB:1 ======
+Created Saturday 22 December 2018
+
+===== Primary Objectives =====
+Ride the [[v:Fido:0]] into history by taking the following observations on and around the launch pad:
+[*] Crew report
+[*] Goo canister
+[*] EVA report
+
+===== Vehicles and Astronauts =====
+* [[v:Fido:0]]
+	* [[a:Jebediah]] - Commander and Pilot
+
+===== Outcome =====
+SUCCESS! Jeb ran around and even got bonus science from the VAB.

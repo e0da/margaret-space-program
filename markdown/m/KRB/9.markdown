@@ -1,0 +1,49 @@
+# KRB:9
+Created Monday 24 December 2018
+
+
+1. During ascent, stage the Juno for [c:Test J-20 "Juno" Basic Jet Engine in flight over Kerbin](../../c/Test_J-20_Juno_Basic_Jet_Engine_in_flight_over_Kerbin.markdown)
+2. Enter an eliptical orbin of 70km/340km
+3. Stage the radial decoupler near apoapsis for [c:Test TT-38K Radial Decoupler orbiting Kerbin](../../c/Test_TT-38K_Radial_Decoupler_orbiting_Kerbin.markdown)
+4. Near Ap measure scientific instruments
+5. Near Ap fire retrograde to drop periapsis to 50km
+6. Note speed at Pe, and any adverse reentry effects
+7. Note if subsequent orbits are required (i.e. did we reenter, or only airbrake?)
+8. Land and recover
+
+
+Primary Objectives
+------------------
+
+* ☑ [c:Test J-20 "Juno" Basic Jet Engine in flight over Kerbin](../../c/Test_J-20_Juno_Basic_Jet_Engine_in_flight_over_Kerbin.markdown)
+* ☑ [c:Test TT-38K Radial Decoupler orbiting Kerbin](../../c/Test_TT-38K_Radial_Decoupler_orbiting_Kerbin.markdown)
+* ☑ Recover [a:Valentina](../../a/Valentina.markdown)
+
+
+Secondary Objectives
+--------------------
+
+* ☑ Recover capsule
+* ☑ Conduct scientific experiments
+* ☒ Land near KSC
+* ☑ Recover experiments
+
+
+Vehicles and Astronauts
+-----------------------
+
+* [v:Grace:3](../../v/Grace/3.markdown)
+	* [a:Valentina](../../a/Valentina.markdown) - Commander and Pilot
+
+
+Observations
+------------
+50km wasn't low enough. It just aerobraked us. I don't know how many orbits until we get down. Orbital velocity appears to be around 2500m/s. We had to take evasive maneuvers upon reentry to land in mountains instead of water. Engineer Redux landing info proved invaluable. We landed off the west coast of the KSC continent. 
+
+Cost
+----
+Launch: -20
+Recovery: 7
+Contracts: 24 + 62 = 86
+Profit: 86 + 7 - 20 = 73
+

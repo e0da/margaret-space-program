@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T11:33:51-08:00
+
+====== Test J-20 Juno Basic Jet Engine in flight over Kerbin ======
+Created Monday 24 December 2018
+
+===== Missions =====
+[*] [[m:KRB:9]]
+
+===== Parameters =====
+* Altitude: 1-9km
+* Speed: 100-290m/s
+
+===== Reward =====
+* 23625-3-6

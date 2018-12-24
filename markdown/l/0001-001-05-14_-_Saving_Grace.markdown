@@ -1,7 +1,7 @@
 # 0001-001-05-14 - Saving Grace
 Created Saturday 22 December 2018
 
-Valentina flew the [v:Grace 1T](../v/Grace_1T.markdown) on [m:KRB-4](../m/KRB-4.markdown) to test the Mk2-R radial mount parachute and splash down in the ocean.
+Valentina flew the [v:Grace:1T](../v/Grace/1T.markdown) on [m:KRB:4](../m/KRB/4.markdown) to test the Mk2-R radial mount parachute and splash down in the ocean.
 
 Contracts Complete
 ------------------

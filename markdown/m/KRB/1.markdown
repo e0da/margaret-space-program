@@ -1,0 +1,23 @@
+# KRB:1
+Created Saturday 22 December 2018
+
+Primary Objectives
+------------------
+Ride the [v:Fido:0](../../v/Fido/0.markdown) into history by taking the following observations on and around the launch pad:
+
+* ☑ Crew report
+* ☑ Goo canister
+* ☑ EVA report
+
+
+Vehicles and Astronauts
+-----------------------
+
+* [v:Fido:0](../../v/Fido/0.markdown)
+	* [a:Jebediah](../../a/Jebediah.markdown) - Commander and Pilot
+
+
+Outcome
+-------
+SUCCESS! Jeb ran around and even got bonus science from the VAB.
+

@@ -5,11 +5,8 @@ Creation-Date: 2018-12-22T22:53:23-08:00
 ====== Test LV-T45 Swivel Liquid Fuel Engine landed at Kerbin ======
 Created Saturday 22 December 2018
 
-===== Status =====
-Complete
+===== Missions =====
+[*] [[m:KRB:8]]
 
 ===== Reward =====
-4375-1-1
-
-===== Missions =====
-[*] [[m:KRB-8]]
+* 4375-1-1

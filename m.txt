@@ -7,7 +7,4 @@ Created Saturday 22 December 2018
 
 [[+Template]]
 
-==== KRB ====
-Research Kerbin
-
 ===== TODO Enumerate =====

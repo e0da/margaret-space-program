@@ -13,5 +13,6 @@ Created Saturday 22 December 2018
 * [+0001-002-00-48 - Check Yo Staging](./l/0001-002-00-48_-_Check_Yo_Staging.markdown)
 * [+0001-002-01-39 - Engine Test](./l/0001-002-01-39_-_Engine_Test.markdown)
 * [+0001-002-04-37 - Well, This Is Awkward](./l/0001-002-04-37_-_Well,_This_Is_Awkward.markdown)
+* [+0001-003-00-11 - A Little Eccentric](./l/0001-003-00-11_-_A_Little_Eccentric.markdown)
 
 

@@ -1,0 +1,31 @@
+# Grace:3
+Created Monday 24 December 2018
+
+The Grace:3 flies us higher than we've ever flown and is our first rocket to feature radially attached engines and radial staging. It is also the first craft to feature a backup battery.
+
+Missions
+--------
+
+* [m:KRB:9](../../m/KRB/9.markdown)
+
+
+Revisions
+---------
+
+### Mk1
+![](./img/Grace-3-Launch.jpg) ![](./img/Grace-3-Stage-2.jpg)
+![](./img/Grace-3-Experiments.jpg) ![](./img/Grace-2-Reentry-Maneuver.png)
+
+#### Development
+
+Testing upper stage survivability atop an SRB
+![](./img/Grace-3-Development-1.jpg)
+
+The booster saw a lot of iteration
+![](./img/Grace-3-Development-2.jpg)
+
+#### Issues
+
+1. It's too long and too flexible. It wobbles on ascent. It chills right out once you drop the booster. Would benefit from longer fuel tank parts and struts.
+
+

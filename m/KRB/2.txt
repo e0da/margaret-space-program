@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-22T17:20:20-08:00
+
+====== KRB:2 ======
+Created Saturday 22 December 2018
+
+Do it right the first time. Orbit or bust on our program's maiden voyage.
+
+===== Primary Objectives =====
+[*] [[c:Launch our first vessel!]]
+[*] Achieve orbit around Kerbin and return home safely in the [[v:Grace:2]]
+[*] Recover [[a:Valentina]]
+
+===== Secondary Objectives =====
+[*] Recover capsule
+[ ] Recover scientific equipment
+[ ] Take the following scientific observations while in orbit
+	[ ] Goo canister
+	[ ] Temperature
+	[*] Crew report
+[ ] Land near the KSC
+
+===== Vehicles and Astronauts =====
+* [[v:Grace:2]]
+	* [[a:Valentina]] - Commander and Pilot
+
+===== Outcome =====
+SUCCESS! We achieved orbit. The scientific equipment was burnt up on reentry. Because the fuel margins were poor, we had to take what we could get for our return trajectory and landed on the other side of the world.

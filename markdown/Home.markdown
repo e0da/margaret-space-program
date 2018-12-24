@@ -14,8 +14,8 @@ Formatting and Notation
 	* a = astronaut, e.g. [a:Valentina](./a/Valentina.markdown)
 	* c = contract, e.g. [c:Escape the atmosphere!](./c/Escape_the_atmosphere!.markdown)
 	* l = log, e.g. [l:0001-002-04-37 - Well, This Is Awkward](./l/0001-002-04-37_-_Well,_This_Is_Awkward.markdown)
-	* m = mission, e.g. [m:KRB-7](./m/KRB-7.markdown)
-	* v = vehicle, e.g. [v:Grace 2T](./v/Grace_2T.markdown) Mk4. Note that the Mk4 is not part of the link. All revisions are on the same page.
+	* m = mission, e.g. [m:KRB:7](./m/KRB/7.markdown)
+	* v = vehicle, e.g. [v:Grace:2T](./v/Grace/2T.markdown) Mk4. Note that the Mk4 is not part of the link. All revisions are on the same page.
 
 
 
