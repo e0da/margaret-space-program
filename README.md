@@ -1,1 +1,59 @@
 See [markdown/Home.markdown](markdown/Home.markdown)
+
+```
+$ find . -name \*.txt | xargs wc
+   11    22   208 ./a/Bill.txt
+    9    24   217 ./a/Jebediah.txt
+   14    30   271 ./a/Valentina.txt
+    8    19   188 ./a.txt
+   12    31   273 ./c/Escape_the_atmosphere!.txt
+   13    38   316 ./c/Gather_scientific_data_from_Kerbin.txt
+   16    41   345 ./c/Haul_RT-5_Flea_Solid_Fuel_Booster_into_flight_above_Kerbin.txt
+   13    34   286 ./c/Launch_our_first_vessel!.txt
+   13    32   278 ./c/Science_data_from_Space_around_Kerbin.txt
+   16    34   262 ./c/Template.txt
+   12    34   278 ./c/Test_BACC_Thumper_Solid_Fuel_Booster_at_the_Launch_Site.txt
+   16    43   341 ./c/Test_J-20_Juno_Basic_Jet_Engine_in_flight_over_Kerbin.txt
+   12    33   277 ./c/Test_LV-T45_Swivel_Liquid_Fuel_Engine_landed_at_Kerbin.txt
+   12    33   279 ./c/Test_Mk2-R_Radial_Mount_Parachute_in_flight_over_Kerbin.txt
+   12    34   275 ./c/Test_RT-5_Flea_Solid_Fuel_Booster_at_the_Launch_Site.txt
+   15    39   332 ./c/Test_TD-12_Decoupler_on_a_sub-orbital_trajectory_over_Kerbin.txt
+   13    33   285 ./c/Test_TD-25_Decoupler_splashed_down_at_Kerbin.txt
+   15    36   316 ./c/Test_TT-38K_Radial_Decoupler_orbiting_Kerbin.txt
+   10    20   204 ./c.txt
+   21   136   864 ./Home.txt
+   20   133   890 ./l/0001-001-00-27_-_Hello_World.txt
+   35   257  1528 ./l/0001-001-01-01_-_Run_Before_You_Walk.txt
+   12    74   543 ./l/0001-001-04-59_-_Home_Safe.txt
+   12    59   441 ./l/0001-001-05-05_-_Only_a_Test.txt
+   11    51   399 ./l/0001-001-05-14_-_Saving_Grace.txt
+   11   100   677 ./l/0001-002-00-02_-_Hoisted_by_My_Own_Part_Clip.txt
+   19   150   962 ./l/0001-002-00-48_-_Check_Yo_Staging.txt
+   11    40   337 ./l/0001-002-01-39_-_Engine_Test.txt
+   14    81   661 ./l/0001-002-04-37_-_Well,_This_Is_Awkward.txt
+   14    54   620 ./l/0001-003-00-11_-_A_Little_Eccentric.txt
+   20   118   838 ./l/Template.txt
+   19    77   586 ./l.txt
+   19    72   526 ./m/KRB/1.txt
+   29   146   976 ./m/KRB/2.txt
+   23   100   721 ./m/KRB/3.txt
+   25   118   836 ./m/KRB/4.txt
+   28   128   929 ./m/KRB/5.txt
+   22    79   643 ./m/KRB/6.txt
+   22    65   538 ./m/KRB/7.txt
+   20    58   474 ./m/KRB/8.txt
+   39   233  1525 ./m/KRB/9.txt
+   18    35   260 ./m/KRB.txt
+   21    92   575 ./m/Template.txt
+   10    20   203 ./m.txt
+   13    37   310 ./v/Fido/0.txt
+   25    47   405 ./v/Fido/0B.txt
+   13    48   380 ./v/Grace/1.txt
+   13    37   332 ./v/Grace/1T.txt
+   18    58   520 ./v/Grace/2.txt
+   53   217  1688 ./v/Grace/2T.txt
+   29   111   895 ./v/Grace/3.txt
+   38   133   981 ./v/Template.txt
+   24   104   739 ./v.txt
+  963  3878 29033 total
+```

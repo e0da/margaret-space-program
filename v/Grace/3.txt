@@ -18,9 +18,11 @@ The Grace:3 flies us higher than we've ever flown and is our first rocket to fea
 === Development ===
 
 Testing upper stage survivability atop an SRB
+
 {{.\Grace-3-Development-1.jpg}}
 
 The booster saw a lot of iteration
+
 {{.\Grace-3-Development-2.jpg}}
 
 === Issues ===
