@@ -1,14 +1,18 @@
 See [markdown/Home.markdown](markdown/Home.markdown)
 
 ```
-$ find . -name \*.txt | xargs wc
+$ find . -name \*.txt | xargs wc >> README.md
    11    22   208 ./a/Bill.txt
     9    24   217 ./a/Jebediah.txt
-   14    30   271 ./a/Valentina.txt
+   16    34   303 ./a/Valentina.txt
     8    19   188 ./a.txt
+   20    77   540 ./c/C7/Survey/1.txt
+   12    34   282 ./c/Conduct_a_focused_temperature_survey_below_16.6km_of_1QFSG4.txt
+   12    34   282 ./c/Conduct_a_focused_temperature_survey_below_16.8km_of_CQ-B8K.txt
    12    31   273 ./c/Escape_the_atmosphere!.txt
    13    38   316 ./c/Gather_scientific_data_from_Kerbin.txt
    16    41   345 ./c/Haul_RT-5_Flea_Solid_Fuel_Booster_into_flight_above_Kerbin.txt
+   20    74   507 ./c/Jebs/Survey/1.txt
    13    34   286 ./c/Launch_our_first_vessel!.txt
    13    32   278 ./c/Science_data_from_Space_around_Kerbin.txt
    16    34   262 ./c/Template.txt
@@ -35,6 +39,8 @@ $ find . -name \*.txt | xargs wc
    20   118   838 ./l/Template.txt
    19    77   586 ./l.txt
    19    72   526 ./m/KRB/1.txt
+   59   220  1603 ./m/KRB/10.txt
+   60   234  1601 ./m/KRB/11.txt
    29   146   976 ./m/KRB/2.txt
    23   100   721 ./m/KRB/3.txt
    25   118   836 ./m/KRB/4.txt
@@ -42,18 +48,24 @@ $ find . -name \*.txt | xargs wc
    22    79   643 ./m/KRB/6.txt
    22    65   538 ./m/KRB/7.txt
    20    58   474 ./m/KRB/8.txt
-   39   233  1525 ./m/KRB/9.txt
-   18    35   260 ./m/KRB.txt
-   21    92   575 ./m/Template.txt
-   10    20   203 ./m.txt
+   40   242  1555 ./m/KRB/9.txt
+   21    39   284 ./m/KRB.txt
+   40   242  1560 ./m/Template.txt
+    7    15   153 ./m/TFL/1.txt
+   13    24   226 ./m/TFL.txt
+   11    20   199 ./m.txt
    13    37   310 ./v/Fido/0.txt
    25    47   405 ./v/Fido/0B.txt
+    9    19   173 ./v/Fido.txt
    13    48   380 ./v/Grace/1.txt
    13    37   332 ./v/Grace/1T.txt
    18    58   520 ./v/Grace/2.txt
    53   217  1688 ./v/Grace/2T.txt
    29   111   895 ./v/Grace/3.txt
+   12    25   205 ./v/Grace.txt
    38   133   981 ./v/Template.txt
-   24   104   739 ./v.txt
-  963  3878 29033 total
+   28   203  1335 ./v/Wayback/1.txt
+    8    17   165 ./v/Wayback.txt
+   34   137   974 ./v.txt
+ 1259  5054 37407 total
 ```
