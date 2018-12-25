@@ -18,9 +18,11 @@ Revisions
 #### Development
 
 Testing upper stage survivability atop an SRB
+
 ![](./3/Grace-3-Development-1.jpg)
 
 The booster saw a lot of iteration
+
 ![](./3/Grace-3-Development-2.jpg)
 
 #### Issues

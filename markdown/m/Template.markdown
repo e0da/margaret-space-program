@@ -1,28 +1,52 @@
 # Template
 Created Saturday 22 December 2018
 
+
+1. During ascent, stage the Juno for [c:Test J-20 "Juno" Basic Jet Engine in flight over Kerbin](../c/Test_J-20_Juno_Basic_Jet_Engine_in_flight_over_Kerbin.markdown)
+2. Enter an eliptical orbin of 70km/340km
+3. Stage the radial decoupler near apoapsis for [c:Test TT-38K Radial Decoupler orbiting Kerbin](../c/Test_TT-38K_Radial_Decoupler_orbiting_Kerbin.markdown)
+4. Near Ap measure scientific instruments
+5. Near Ap fire retrograde to drop periapsis to 50km
+6. Note speed at Pe, and any adverse reentry effects
+7. Note if subsequent orbits are required (i.e. did we reenter, or only airbrake?)
+8. Land and recover
+
+
 Primary Objectives
 ------------------
 
-* ☐ one
-* ☐ two
+* ☑ [c:Test J-20 "Juno" Basic Jet Engine in flight over Kerbin](../c/Test_J-20_Juno_Basic_Jet_Engine_in_flight_over_Kerbin.markdown)
+* ☑ [c:Test TT-38K Radial Decoupler orbiting Kerbin](../c/Test_TT-38K_Radial_Decoupler_orbiting_Kerbin.markdown)
+* ☑ Recover [a:Valentina](../a/Valentina.markdown)
 
 
 Secondary Objectives
 --------------------
 
-* ☐ one
-* ☐ two
+* ☑ Recover capsule
+* ☑ Conduct scientific experiments
+* ☒ Land near KSC
+* ☑ Recover experiments
 
 
 Vehicles and Astronauts
 -----------------------
 
-* v:Vehicle 1
-	* a:Astronaut 1 - Commander and Pilot
+* [v:Grace:3](../v/Grace/3.markdown)
+	* [a:Valentina](../a/Valentina.markdown) - Commander and Pilot
 
 
-Outcome
--------
-SUCCESS! We achieved orbit. The scientific equipment was burnt up on reentry. Because the fuel margins were poor, we had to take what we could get for our return trajectory and landed on the other side of the world.
+Observations
+------------
+50km wasn't low enough. It just aerobraked us. I don't know how many orbits until we get down. Orbital velocity appears to be around 2500m/s. We had to take evasive maneuvers upon reentry to land in mountains instead of water. Engineer Redux landing info proved invaluable. We landed off the west coast of the KSC continent. 
+
+Budget
+------
+
+* Launch: -20
+* Recovery: 7
+* Contracts: 24 + 62 = 86
+* Revenue: 86 + 7 = 93
+* Profit: 93 - 20 = 73
+
 

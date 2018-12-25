@@ -1,0 +1,26 @@
+# Jebs:Survey:1
+Created Monday 24 December 2018
+
+Missions
+--------
+
+* ☐ [m:KRB:11](../../../m/KRB/11.markdown)
+
+
+Reward
+------
+
+* 8800-3-3 - Alpha
+* 8800-3-3 - Beta
+* 8800-3-3 - Gamma
+* 51528-0-10
+
+
+Parameters
+----------
+
+* ☑ Measure the temperature on the surface at  at Alpha Site
+* ☑ Measure the temperature on the surface at  at Beta Site
+* ☑ Measure the temperature on the surface at  at Gamma Site
+
+

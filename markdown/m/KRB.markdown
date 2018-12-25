@@ -13,5 +13,8 @@ Research Kerbin
 * [+7](./KRB/7.markdown)
 * [+8](./KRB/8.markdown)
 * [+9](./KRB/9.markdown)
+* [+10](./KRB/10.markdown)
+* [+11](./KRB/11.markdown)
+
 
 

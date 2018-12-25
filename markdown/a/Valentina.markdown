@@ -10,5 +10,7 @@ Missions
 * [m:KRB:6](../m/KRB/6.markdown)
 * [m:KRB:7](../m/KRB/7.markdown)
 * [m:KRB:9](../m/KRB/9.markdown)
+* [m:KRB:10](../m/KRB/10.markdown)
+* [m:KRB:11](../m/KRB/11.markdown)
 
 
