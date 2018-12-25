@@ -18,5 +18,11 @@ Formatting and Notation
 	* v = vehicle, e.g. [v:Grace:2T](./v/Grace/2T.markdown) Mk4. Note that the Mk4 is not part of the link. All revisions are on the same page.
 
 
+Issues
+------
+
+1. m:KRB:* need to be 0-prefixed (e.g. m:KRB:01 instead of m:KRB:1)
+2. Log entries need to be absorbed into mission logs.
+3. Mission logs need to be updated to describe Observations instead of Outcome.
 
 

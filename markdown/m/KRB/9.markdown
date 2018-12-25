@@ -38,7 +38,7 @@ Vehicles and Astronauts
 
 Observations
 ------------
-50km wasn't low enough. It just aerobraked us. I don't know how many orbits until we get down. Orbital velocity appears to be around 2500m/s. We had to take evasive maneuvers upon reentry to land in mountains instead of water. Engineer Redux landing info proved invaluable. We landed off the west coast of the KSC continent. 
+50km wasn't low enough. It just aerobraked us. I don't know how many orbits until we get down. Orbital velocity appears to be around 2500m/s. We had to take evasive maneuvers upon reentry to land in mountains instead of water. Engineer Redux landing info proved invaluable. We landed off the west coast of the KSC continent. We left a radial decoupler and a booster in orbit. The booster decayed and exploded in the ocean, but the decoupler isn't going anywhere. It was a mission requirement.
 
 Budget
 ------
