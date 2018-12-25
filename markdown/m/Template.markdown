@@ -1,52 +1,78 @@
 # Template
 Created Saturday 22 December 2018
 
+KRB:11
+======
+Created Monday 24 December 2018
 
-1. During ascent, stage the Juno for [c:Test J-20 "Juno" Basic Jet Engine in flight over Kerbin](../c/Test_J-20_Juno_Basic_Jet_Engine_in_flight_over_Kerbin.markdown)
-2. Enter an eliptical orbin of 70km/340km
-3. Stage the radial decoupler near apoapsis for [c:Test TT-38K Radial Decoupler orbiting Kerbin](../c/Test_TT-38K_Radial_Decoupler_orbiting_Kerbin.markdown)
-4. Near Ap measure scientific instruments
-5. Near Ap fire retrograde to drop periapsis to 50km
-6. Note speed at Pe, and any adverse reentry effects
-7. Note if subsequent orbits are required (i.e. did we reenter, or only airbrake?)
-8. Land and recover
+Itinerary
+---------
+
+1. Taxi to surface targets
+2. Measure the temperature on the surface at  at Alpha Site
+3. Measure the temperature on the surface at  at Beta Site
+4. Measure the temperature on the surface at  at Gamma Site
+5. Take off from terrain and head for nearest target
+6. Measure the temperature in flight below 18.9km near Bob's Tears
+7. Measure the temperature in flight below 17.7km near Site V-76
+8. Measure the temperature in flight below 18.8km near Urny's Awe
+9. Conduct other scientific experiments where possible
+10. Land on KSC runway
+
+
+Start/End
+---------
+
+* Start: 0001-003-05-08
+* End: 0001-003-05-34
 
 
 Primary Objectives
 ------------------
 
-* ☑ [c:Test J-20 "Juno" Basic Jet Engine in flight over Kerbin](../c/Test_J-20_Juno_Basic_Jet_Engine_in_flight_over_Kerbin.markdown)
-* ☑ [c:Test TT-38K Radial Decoupler orbiting Kerbin](../c/Test_TT-38K_Radial_Decoupler_orbiting_Kerbin.markdown)
+* ☑ [c:Jebs:Survey:1](../c/Jebs/Survey/1.markdown)
+* ☑ [c:C7:Survey:1](../c/C7/Survey/1.markdown)
 * ☑ Recover [a:Valentina](../a/Valentina.markdown)
 
 
 Secondary Objectives
 --------------------
 
-* ☑ Recover capsule
+* ☑ Recover plane
 * ☑ Conduct scientific experiments
-* ☒ Land near KSC
+* ☑ Land on KSC runway
 * ☑ Recover experiments
 
 
 Vehicles and Astronauts
 -----------------------
 
-* [v:Grace:3](../v/Grace/3.markdown)
+* [v:Wayback:1](../v/Wayback/1.markdown)
 	* [a:Valentina](../a/Valentina.markdown) - Commander and Pilot
 
 
 Observations
 ------------
-50km wasn't low enough. It just aerobraked us. I don't know how many orbits until we get down. Orbital velocity appears to be around 2500m/s. We had to take evasive maneuvers upon reentry to land in mountains instead of water. Engineer Redux landing info proved invaluable. We landed off the west coast of the KSC continent. 
+That went swell! Added notes to [v:Wayback:1](../v/Wayback/1.markdown) about landing parameters.
 
 Budget
 ------
 
-* Launch: -20
-* Recovery: 7
-* Contracts: 24 + 62 = 86
-* Revenue: 86 + 7 = 93
-* Profit: 93 - 20 = 73
+* Launch: -18
+* Recovery: 18
+* Contracts: (9 * 3 + 51) + (9 * 3 + 56) = 161
+* Revenue: 161 + 18 = 179
+* Profit: 179 - 18 = 161
 
+
+Photos
+------
+
+Cruising
+
+![](./Template/Wayback-1-Cruising.jpg)
+
+Eyeballing the KSC from the cockpit
+
+![](./Template/Wayback-1-KSC-from-Cockpit.jpg)
 
