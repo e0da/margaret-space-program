@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T18:26:29-08:00
+
+====== Conduct a focused temperature survey below 16.6km of 1QFSG4 ======
+Created Monday 24 December 2018
+
+===== Missions =====
+[ ] [[m:KRB:10]]
+
+===== Reward =====
+* 14330-0-2

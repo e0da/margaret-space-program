@@ -1,0 +1,59 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T18:11:04-08:00
+
+====== KRB:10 ======
+Created Monday 24 December 2018
+
+===== Itinerary =====
+1. [[c:Conduct a focused temperature survey below 16.8km of CQ-B8K]]
+2. [[c:Conduct a focused temperature survey below 16.6km of 1QFSG4]]
+3. Conduct other scientific experiments where possible
+4. Land on KSC runway
+
+===== Start/End =====
+* Start: 0001-03-04-35
+* End: 0001-03-05-00
+
+===== Primary Objectives =====
+[*] [[c:Conduct a focused temperature survey below 16.8km of CQ-B8K]]
+[*] [[c:Conduct a focused temperature survey below 16.6km of 1QFSG4]]
+[*] Recover [[a:Valentina]]
+
+===== Secondary Objectives =====
+[*] Recover plane
+[*] Conduct scientific experiments
+[*] Land on KSC runway
+[*] Recover experiments
+
+===== Vehicles and Astronauts =====
+* [[v:Wayback:1]]
+	* [[a:Valentina]] - Commander and Pilot
+
+===== Observations =====
+That was neat! I got so distracted watching the plane fly I missed the second temperature target twice, so we flew past it 3 times. Had to wave off first attempt at landing at KSC. Came in too hot. Second attempt was uneventful. The plane is amazing.
+
+===== Budget =====
+* Launch: -18
+* Recovery: 18
+* Contracts: 14 + 14 = 28
+* Revenue: 28 + 18 = 46
+* Profit: 46 - 18 = 28
+
+===== Photos =====
+
+Landed at the old air field in our first flight test
+
+{{.\Wayback-1-Landed-at-Old-Air-Field.jpg}}
+
+Demonstrating experiments
+
+{{.\Wayback-1-Bays-Open.jpg}}
+
+Instruments
+
+{{.\Wayback-1-Instruments.jpg}}
+
+TOUCHDOWN!
+
+{{.\Wayback-1-Takeoff.jpg}}

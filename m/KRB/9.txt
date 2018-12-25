@@ -32,8 +32,9 @@ Created Monday 24 December 2018
 ===== Observations =====
 50km wasn't low enough. It just aerobraked us. I don't know how many orbits until we get down. Orbital velocity appears to be around 2500m/s. We had to take evasive maneuvers upon reentry to land in mountains instead of water. Engineer Redux landing info proved invaluable. We landed off the west coast of the KSC continent. 
 
-===== Cost =====
-Launch: -20
-Recovery: 7
-Contracts: 24 + 62 = 86
-Profit: 86 + 7 - 20 = 73
+===== Budget =====
+* Launch: -20
+* Recovery: 7
+* Contracts: 24 + 62 = 86
+* Revenue: 86 + 7 = 93
+* Profit: 93 - 20 = 73

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T18:22:19-08:00
+
+====== Fido ======
+Created Monday 24 December 2018
+
+* [[+0]]
+* [[+0B]]

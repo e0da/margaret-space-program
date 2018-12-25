@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T18:23:40-08:00
+
+====== Wayback:1 ======
+Created Monday 24 December 2018
+
+Wayback:1 develops our subsonic flight capability.
+
+===== Missions =====
+* [[m:KRB:10]]
+* [[m:KRB:11]]
+
+===== Revisions =====
+
+==== Mk1 ====
+{{.\Wayback-1-Takeoff.jpg}}
+
+==== Development ====
+This is the best plane I've ever made! I thought SAS was on when it wasn't. The wings and winglets are dihedral, it flies level. It's ridiculous. It's also very easy to launch and land. It seems to top out around 280m/s at around 9km. It handles great at near-mach speeds. It's just ridiculous. Landed at the old air field on my first try. Landed back at the KSC on my first try. Best landings ever. Drop the altitude down to around 300m before you get close and bleed off any excess speed and landing should be a breeze. The secrets to success were:
+
+1. Angle the tail up so it clears the ground!
+2. Put the wings below the engines below the tail wings so it tends to maintain elevation
+3. The wings and tail wings are patched up slightly so the plane self stabilizes
+4. The center of lift sphere should just kiss the back of the center of mass sphere.
+
+{{.\Wayback-1-Landed-at-Old-Air-Field.jpg}}{{.\Wayback-1-Bays-Open.jpg}}
+{{.\Wayback-1-KSC-from-Cockpit.jpg}}

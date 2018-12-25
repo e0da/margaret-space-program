@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-24T19:58:56-08:00
+
+====== C7:Survey:1 ======
+Created Monday 24 December 2018
+
+===== Missions =====
+[ ] [[m:KRB:11]]
+
+===== Reward =====
+* 8800-3-3 - Bob's Tears
+* 8800-3-3 - Site V-76
+* 8800-3-3 - Urney's Awe
+* 55650-0-9
+
+===== Parameters =====
+[*] Measure the temperature in flight below 18.9km near Bob's Tears
+[*] Measure the temperature in flight below 17.7km near Site V-76
+[*] Measure the temperature in flight below 18.8km near Urny's Awe
